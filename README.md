@@ -20,3 +20,6 @@ Reference
 4. http://www.sci.wsu.edu/math/faculty/hudelson/logisticlesson.html
 5. https://stackoverflow.com/questions/34486642/what-is-the-currently-correct-way-to-dynamically-update-plots-in-jupyter-ipython
 
+Created: 2020/01
+
+Updated: 2020/01
